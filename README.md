@@ -38,18 +38,6 @@ I spend most of my time working on Data Structures & Algorithms, learning core C
 - React (Learning)
 - Node.js (Learning)
 
----
-
-## Projects
-
-### Admission Management System
-A Java-based project designed using OOP principles to manage student admissions and records efficiently.
-
-### Interactive Periodic Table
-Built using HTML, CSS, and JavaScript with interactive element details and clean UI design.
-
-### NeoSpace Engineering Website
-Developing a professional company website focused on energy and engineering solutions.
 
 ---
 
